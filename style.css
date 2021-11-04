@@ -1,0 +1,32 @@
+.heading{
+    font-size: 30px;
+    margin: 0px;
+    width: 100%;
+    box-shadow: aqua;
+}
+.note{
+    font-size: 17px;
+    color: rgb(255, 0, 0);
+
+}
+.div_speed{
+    float: left;
+    color: black;
+    
+}
+.imagespacing{
+    width: 200px;
+    border-radius: 100px;
+}
+.gifspacing{
+    float: right;
+}
+.volume{
+    font-size: 20px;
+    margin: 30px;
+}
+canvas{
+    margin-top: 150px;
+     box-shadow: 5px 5px 5px red;
+    border-radius:25px ;
+}
